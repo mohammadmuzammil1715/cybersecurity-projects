@@ -1,28 +1,29 @@
 # Cybersecurity Projects (Python)
 
-This repository contains my cybersecurity and gaming security projects built using Python.
+This repository contains cybersecurity and gaming security projects developed using Python.
 
-## Projects
+## 🔐 Projects
 
 ### 1. Password Strength Checker
-Checks password strength based on length, uppercase, numbers, and special characters.
+Evaluates password strength based on multiple security parameters.
 
 ### 2. Port Scanner
 Scans open and closed ports on a target system using socket programming.
 
 ### 3. Game Server Port Scanner
-Scans ports related to gaming services like Minecraft and web servers.
+Detects open ports related to gaming services like Minecraft and web servers.
 
 ### 4. Phishing Detection System
-Detects malicious URLs using rule-based and machine learning techniques.
+Identifies malicious URLs using rule-based and machine learning techniques.
 
 ### 5. Anti-Cheat System
-Detects abnormal gameplay behavior like sudden score spikes.
+Detects abnormal gameplay behavior such as sudden score spikes.
 
 ### 6. Game Login Security System
-Implements secure login with password validation and brute-force protection.
+Implements secure authentication with password validation and brute-force protection.
 
-## Technologies Used
+## ⚙️ Technologies Used
 - Python
 - Socket Programming
 - Machine Learning (Basic)
+- Cybersecurity Concepts
