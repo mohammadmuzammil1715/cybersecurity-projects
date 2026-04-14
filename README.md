@@ -13,13 +13,10 @@ Scans open and closed ports on a target system using socket programming.
 ### 3. Game Server Port Scanner
 Detects open ports related to gaming services like Minecraft and web servers.
 
-### 4. Phishing Detection System
-Identifies malicious URLs using rule-based and machine learning techniques.
-
-### 5. Anti-Cheat System
+### 4. Anti-Cheat System
 Detects abnormal gameplay behavior such as sudden score spikes.
 
-### 6. Game Login Security System
+### 5. Game Login Security System
 Implements secure authentication with password validation and brute-force protection.
 
 ## ⚙️ Technologies Used
